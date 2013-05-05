@@ -5,11 +5,11 @@ This project contains homebrew formulae for ctrimble's projects.
 ## Installing this tap
 
 ```
-brew tap install ctrimble/homebrew-tap
+brew tap ctrimble/homebrew-tap
 ```
 
 ## Uninstalling this tap
 
 ```
-brew tap uninstall ctrimble/homebrew-tap
+brew untap ctrimble/homebrew-tap
 ```
